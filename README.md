@@ -21,6 +21,7 @@ This Excel file tracks all these above tasks through a dashboard.
 
 ## Findings
 Through the dashboard we find the following answers to the above mentioned questions:
+
 2. March has got the highest sales and orders.
 3. Women purchased more in 2022.
 4. In 2022, the general order status is delivered with a 92% score.
